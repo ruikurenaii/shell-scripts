@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Usage: ./ttf_to_css.sh font.ttf "FontName" output.css
+# Usage: ./ttf2base64css.sh font.ttf "FontName" output.css
 
 INPUT_FILE="$1"
 FONT_NAME="$2"
