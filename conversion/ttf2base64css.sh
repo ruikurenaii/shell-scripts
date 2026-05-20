@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Usage: ./ttf2base64css.sh font.ttf "FontName" output.css
+# Usage: ./ttf2base64css.sh path/to/font.ttf "FontName" path/to/output.css
 
 # Best Use Case: using fonts as CSS snippets in Obsidian.
 
