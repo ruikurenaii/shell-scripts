@@ -2,6 +2,8 @@
 
 # Usage: ./ttf2base64css.sh font.ttf "FontName" output.css
 
+# Best Use Case: using fonts as CSS snippets in Obsidian.
+
 INPUT_FILE="$1"
 FONT_NAME="$2"
 OUTPUT_FILE="$3"
